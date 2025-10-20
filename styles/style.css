@@ -127,9 +127,9 @@ ol {
   color: #fff;
   background-color: transparent;
   appearance: none;
-    min-width: 225px;
-    min-height: 27px;
-    width: 100%;
+  min-width: 225px;
+  min-height: 27px;
+  width: 100%;
 }
 
 .search-form__textfield::placeholder {
@@ -186,7 +186,7 @@ ol {
 }
 
 .search-form__submit-button {
-    align-self: end;
+  align-self: end;
 }
 
 .button {
